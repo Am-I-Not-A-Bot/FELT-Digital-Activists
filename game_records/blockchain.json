@@ -479,6 +479,16 @@
       "TimeSinceLastTransaction": "30m45.422497s",
       "TimeSinceFirstTransaction": "268h1m2.422497s",
       "BlockID": 47
+    },
+    {
+      "Timestamp": 1692070108,
+      "PreviousBlockHash": "Z6CmX0ZXl0ACebJW213sTN+94QS4kMiytIYOum02uKU=",
+      "MyBlockHash": "1IML+3/ASY38LdoyX740rTvGHeafPmY/FVkv6GzkeUg=",
+      "AllData": "VHJhbnNhY3Rpb24gNDg=",
+      "Owner": "Unknown_Demon",
+      "TimeSinceLastTransaction": "59m7.9935784s",
+      "TimeSinceFirstTransaction": "269h0m9.9935784s",
+      "BlockID": 48
     }
   ]
 }
